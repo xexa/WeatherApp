@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OpenWeatherApp</string>
+    <string name="_16_c">16°C</string>
+    <string name="min_temp">Min. temp:</string>
+    <string name="max_temp">Max. temp:</string>
+    <string name="presure">Pressure:</string>
+    <string name="_100_hpa">100 hPa</string>
+    <string name="humidity">Humidity</string>
+    <string name="_90">90 %</string>
+    <string name="type_city_name_here">Type city name here…</string>
+    <string name="show_weather_data">Show weather data</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="show_location_in_map">SHOW LOCATION IN MAP</string>
+    <string name="show_weather_for_current_location">SHOW WEATHER FOR CURRENT LOCATION</string>
+    <string name="weatherapp">Weather App</string>
+</resources>
